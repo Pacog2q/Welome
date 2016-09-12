@@ -1,0 +1,152 @@
+#container{
+  position:absolute;
+  background-color:black;
+  height:100%;
+  width:100%;
+  overflow:auto;
+}
+#header {
+  position:absolute;
+  width:100%;
+  height:80%;
+  background:aqua;
+  top:-7px;
+  background-color:black;
+  
+  background-repeat:no-repeat;
+  background-position:center;
+}
+#header-welcome{
+  position:absolute;
+  left: 31.2%;
+  top:35%;
+  text-align:center;
+  font-size:36px;
+}
+
+ul{
+  position:absolute;
+  top:-16px;
+  right: 10%;
+  display:inline;
+  font-size:26px;
+  color:white;
+  float:right;
+  padding: 35px;
+}
+ul li{
+  display:inline;
+    display-type:none;
+  padding-right:2px; 
+
+}
+
+#header-background {
+ height:100%;
+  width:100%; 
+}
+p {
+color:white;  
+}
+#content{
+  position:absolute;
+  top:78%;
+  
+  height:100%;
+  width:100%;
+  background-color:#0198E1;
+  opacity:;
+  color:white;
+  border:white;
+}
+#header-hook {
+  font-size:20px;
+  font-family: sans-serif;
+  font-style:italic;
+  float:left;
+  opacity:.5;
+  letter-spacing:3px;
+}
+#content-body-two{
+  
+  background-color:black;
+  line-height:43px;
+  height:auto;
+overflow:auto;
+}
+#terminal {
+  font-family:Courier;
+  font-size:15px;
+  margin-left:10%;
+  margin-top:5%;
+  background-color:#0198E1;
+  
+  
+}
+#terminal-p{
+  margin-left:2%;
+  margin-right:4%;
+  
+}
+#content-body {
+  position:aboslute;
+  width:100%;
+
+  
+  height:80%;
+  background-color:#1a1a1a;
+  line-height:50px;
+  letter-spacing:2px;
+}
+#content-left-p{
+  margin-top:5%;
+ margin-left:15%;
+  margin-right:15%;
+  text-align:center;
+font-size:1.5em;
+  }
+#content-header{
+ 
+  font-size:88px;
+  text-align:center;
+  line-height:0;
+  
+}
+#content-body-title{
+  font-weight:bold;
+  text-align:center;
+}
+
+#header-frame{ 
+background-color:black;
+  height:90%;
+  width:60%;
+  margin-top:10%;
+  margin-left:20%;
+  background-image: url(http://res.cloudinary.com/pacog2q/image/upload/c_scale,h_288,w_642/v1473548790/Macbook_xaiks5.png) ;
+  background-repeat:no-repeat;
+  background-size:85%;
+}
+#images{
+  width:100%;
+  height:50%;
+  background-color: #1a1a1a;
+}
+.image{
+  width:15%;
+  margin-left:13%;
+}
+#below-images{
+ text-align:center;
+font-size:1.5em;
+  
+}
+.Emphasis{
+  font-size:46px;
+}
+a{
+text-decoration:none;
+color:white;
+font-size:30px
+
+}

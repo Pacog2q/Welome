@@ -1,0 +1,119 @@
+body{
+  font-family:sans-serif;
+  
+}
+#container{
+  position:absolute;
+  height:100%;
+  width:100%;
+  background-color:#00BFFF;
+  height:auto;
+}
+#wrapper{
+  border-radius: 5%;
+  position:relative;
+  top:15%;
+  width:80%;
+  height:100%;
+  margin:0 auto;
+  margin-top:10%;
+  background-color:#B2DFEE;
+  overflow:auto
+}
+#header{
+  position:relative;
+  top:-5px;
+  height:10%;
+  width:100%;
+  background-color:#009ACD;
+  position:fixed;
+  z-index:1;
+  border-radius:2%;
+  
+}
+h1{
+  color:black;
+  text-align:center;
+}
+#nav{
+  position:absolute;
+  
+  margin-right:5%;
+  top:1%;
+  right:10px;
+  font-size:25px;
+}
+
+ul{
+  color:black;
+  list-style-type:none;
+  
+}
+  ul li{
+    
+   display:inline;
+   padding-right:50px;
+    
+    }
+ h3{
+   text-align:center;
+   color:black;
+ }
+ 
+#Awaken{
+  
+  
+ margin-right:10%;
+} 
+#Pic-Two {
+  width:16%;
+  
+  float:left;
+  margin-right:5%;
+  margin-bottom:10px;
+}
+#Awaken-description{
+  display:inline;
+  font-size:23px;
+}
+p{
+  font-size:23px;
+  line-height:35px;
+}
+#third-pic{
+  margin-top:10%;
+  width:15%;
+  float:left;
+}
+#nap-p{
+  margin-bottom:15%;
+}
+#last-book{
+  
+   margin-right:5%;
+  float:left;
+  width:15%;
+}
+#last-book p{
+  line-height:45px;
+}
+button{
+  padding:15px;
+  border-radius:10%;
+  background-color:black;
+  color:white;
+}
+button:hover{
+  background-color:#009ACD;
+  padding:20px;
+}
+a {
+  text-decoration:none;
+  color:black; 
+}
+img{
+  border-radius:5%;
+}
+img:hover {
+  border:solid;
+}
